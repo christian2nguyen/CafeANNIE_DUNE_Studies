@@ -1,0 +1,3 @@
+MakePredInterps -i /pnfs/dune/persistent/users/cnguyen/cafana_example/FD_FHC_nonswap.root -e /pnfs/dune/persistent/users/cnguyen/cafana_example/FD_FHC_nueswap.root -t /pnfs/dune/persistent/users/cnguyen/cafana_example/FD_FHC_tauswap.root -S FD_FHC -A default_axes -o /pnfs/dune/persistent/users/cnguyen/cafana_example/toy_2perEnergy_test_FD_FHC_v1.root
+
+MakePredInterps -i /pnfs/dune/persistent/users/cnguyen/cafana_example/FD_RHC_nonswap.root -e /pnfs/dune/persistent/users/cnguyen/cafana_example/FD_RHC_nueswap.root -t /pnfs/dune/persistent/users/cnguyen/cafana_example/FD_RHC_tauswap.root -S FD_RHC -A default_axes -o /pnfs/dune/persistent/users/cnguyen/cafana_example/toy_2perEnergy_test_FD_RHC_v1.root

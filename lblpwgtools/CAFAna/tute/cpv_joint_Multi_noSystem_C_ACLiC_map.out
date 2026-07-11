@@ -1,0 +1,3 @@
+ libCore.so  libRIO.so  libMatrix.so  libTree.so  libHist.so  libPhysics.so  libMathCore.so  libThread.so  libGraf.so  libGpad.so  libTreePlayer.so  libNet.so
+# Now the list of classes
+VectorCompareResult

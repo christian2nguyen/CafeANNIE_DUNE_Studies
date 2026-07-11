@@ -1,0 +1,14 @@
+CAFAna/tute/*pdf
+CAFAna/tute/*png
+CAFAna/tute/*.d
+CAFAna/tute/*.pcm
+CAFAna/tute/*.so
+CAFAna/build
+CAFAna/tute/*.txt
+CAFAna/tute/pdfdump
+CAFAna/tute/matrix_plots
+CAFAna/*pdf
+CAFAna/tute/matrix_plotsV3
+CAFAna/tute/*.root
+CAFAna/*root
+CAFAna/*png

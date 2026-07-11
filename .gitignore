@@ -1,11 +1,2 @@
-OldScript_shed/
-flux_plots/
-lblpwgtools/CAFAna/*png
-lblpwgtools/CAFAna/*pdg
-/exp/dune/app/users/cnguyen/lblpwgtools/CAFAna/tute/*pdg
-/exp/dune/app/users/cnguyen/lblpwgtools/CAFAna/tute/*png
-/exp/dune/app/users/cnguyen/lblpwgtools/CAFAna/tute/*.d
-/exp/dune/app/users/cnguyen/lblpwgtools/CAFAna/tute/*.pcm
-/exp/dune/app/users/cnguyen/lblpwgtools/CAFAna/tute/*.so
-/exp/dune/app/users/cnguyen/lblpwgtools/CAFAna/build
-/exp/dune/app/users/cnguyen/lblpwgtools/CAFAna/tute/*.txt
+OldScript_shed
+flux_plots
